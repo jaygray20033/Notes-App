@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notes App
 
 A modern web-based notes management application with a **RESTful API backend** and **responsive dark mode UI**.  
@@ -94,3 +95,6 @@ Built a modern web-based notes management application with RESTful API and respo
 
 **Live Demo**: http://localhost:3000  
 **GitHub Repo**: https://github.com/your-username/notes-app
+=======
+# Notes-App
+>>>>>>> 188d8569a8505255d207fa31b2def39c204d8024
